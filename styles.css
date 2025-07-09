@@ -1,0 +1,74 @@
+nav{
+    display: inline;
+}
+
+h1{
+    margin-top: 0;
+    text-align: center;
+    font-family: 'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive;
+font-size: 100px;
+color: aliceblue;
+}
+body {
+    background-image: url(baha.png) ;
+    background-repeat: no-repeat;
+      background-position: center 0 ; /* moving the image without affecting the other blocs*/
+    background-size: cover;
+  font-family: 'Roboto';
+  
+  
+}
+
+div{
+
+    margin-top: 300px;
+}
+
+.v{
+    margin-right: 240px;
+}
+a{
+    background-color: rgb(204, 204, 204);
+    font-size: 30px;
+}
+a:hover{
+
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+a:active{
+
+    background-color: rgb(114, 114, 114);
+
+}
+p{
+
+    font-size: 30px;
+    color: gray;
+
+}
+
+p:hover{
+
+    font-size: 35px;
+    color: rgb(195, 170, 170);
+}
+h3{
+    text-align: center;
+
+}
+
+div{
+color: rgb(231, 189, 189);
+font-size: 30px;
+
+}
+div:hover{
+color: rgb(239, 137, 137);
+
+}
+#y{
+
+  background-color: transparent;
+}
